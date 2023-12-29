@@ -7,7 +7,7 @@
 </tr> -->
 <!-- <td>
   <a href='/src/QUESTION_CODE/'>solved</a>
-<a href='/src/QUESTION_CODE/'>solved</a>
+<a href='/src/2010/'>solved</a>
 
 # صورت سوال تمرین‌ها
 Email: <a href="mailto:rahmat2022a@gmail.com">rahmat2022a@gmail.com</a>
